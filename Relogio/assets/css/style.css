@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to bottom left, rgb(255, 38, 0), rgb(255, 136, 0), rgb(255, 217, 0), rgb(141, 245, 4));
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hora{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.11);
+    text-transform: uppercase;
+    font-size: 5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+}
